@@ -1,0 +1,5 @@
+war/util/Resources.class
+war/data/MemberListProducer.class
+war/model/Member.class
+war/data/MemberRepository.class
+war/service/MemberRegistration.class

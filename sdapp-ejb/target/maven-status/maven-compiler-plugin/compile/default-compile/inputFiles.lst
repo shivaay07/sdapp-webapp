@@ -1,0 +1,5 @@
+/root/sdapp/sdapp-ejb/src/main/java/war/util/Resources.java
+/root/sdapp/sdapp-ejb/src/main/java/war/data/MemberListProducer.java
+/root/sdapp/sdapp-ejb/src/main/java/war/model/Member.java
+/root/sdapp/sdapp-ejb/src/main/java/war/data/MemberRepository.java
+/root/sdapp/sdapp-ejb/src/main/java/war/service/MemberRegistration.java
